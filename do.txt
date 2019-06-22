@@ -1,0 +1,5 @@
+Faltante
+
+-Validaciones de los formularios mediante expresiones regulares.
+-Arreglar las rutas controller/metodo
+-Filtrar
